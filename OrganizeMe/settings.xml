@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IsSurveillanceMode>false</IsSurveillanceMode>
+  <TimeLapse>1000</TimeLapse>
+  <DirectoriesUnderSurveillance>
+    <Path>C:\Users\Audouze\Downloads</Path>
+  </DirectoriesUnderSurveillance>
+  <Folders>
+    <Folder>
+      <Name>Images</Name>
+      <Extensions>.png,.jpg</Extensions>
+      <LibColor>Blue</LibColor>
+      <Path>C:\Users\Audouze\Downloads\Images</Path>
+    </Folder>
+    <Folder>
+      <Name>MesDocuments</Name>
+      <Extensions>.txt,.doc,.pdf</Extensions>
+      <LibColor>Red</LibColor>
+      <Path>C:\Users\Audouze\Downloads\Docs</Path>
+    </Folder>
+  </Folders>
+</Config>
